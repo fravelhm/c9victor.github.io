@@ -1,5 +1,5 @@
 ---
-Title: # Maze Game
+# Maze Game
 #### Java Program
 ---
 
