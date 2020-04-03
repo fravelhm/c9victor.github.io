@@ -1,5 +1,7 @@
-# Maze Game
+---
+Title: # Maze Game
 #### Java Program
+---
 
 ### Table of Contents
 * Introduction
