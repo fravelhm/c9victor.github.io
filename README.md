@@ -53,4 +53,4 @@ Feel free to submit a pull request and contribute!
 thompsonvc@appstate.edu
 
 ### License
-[MIT License](https://github.com/c9victor/c9victor.github.io/blob/master/LICENSE)
+[MIT License]()
