@@ -43,7 +43,7 @@ INSERT IMAGE HERE
 Navigate to G to win the game.
 
 ### Troubleshooting
-If you can not extract the files you may need to download a program such as [WinRaR](https://www.rarlab.com/download.htm).
+If you can not extract the files you may need to download a program such as [WinRaR]().
 
 ### How to Contribute
 Source code located on [Github](https://github.com/c9victor/c9victor.github.io/tree/master/Lab02).
