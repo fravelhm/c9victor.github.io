@@ -1,7 +1,7 @@
 # Maze Game
 #### Java Program
 
-###T able of Contents
+### Table of Contents
 * Introduction
 * How to Install
 * Usage
