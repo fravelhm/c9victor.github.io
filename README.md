@@ -27,7 +27,7 @@ Click directory and navigate to the folder in which you saved the extracted file
 Click finish
 
 The folder should know appear in your package explorer as shown:
-!["Package Explorer"](file:///D:/College/ASU/ENG%203695/Project2/Package%20Explorer.PNG)
+!["Package Explorer"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Package%20Explorer.PNG)
 
 Run the program as a java application to play the game.
 Run Maze Game > Solution
