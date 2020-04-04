@@ -45,11 +45,11 @@ Navigate to G to win the game.
 If you can not extract the files you may need to download a program such as [WinRaR](https://www.rarlab.com/download.htm).
 
 ### How to Contribute
-Source code located on [Github]().
+Source code located on [Github](https://github.com/c9victor/c9victor.github.io).
 Feel free to submit a pull request and contribute!
 
 ### Contact Information
 thompsonvc@appstate.edu
 
 ### License
-[MIT License]()
+[MIT License](https://github.com/c9victor/c9victor.github.io/blob/master/Info/LICENSE)
