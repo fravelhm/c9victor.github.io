@@ -25,7 +25,7 @@ It prints out a maze on screen that the user must navigate through to reach the 
 2. Extract the files.  
 3. Open Eclipse 
 4. Click "File"  
-1["File"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/File.jpg)
+!["File"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/File.jpg)
 5. Click "Open Projects From File System"
 6. Click directory and navigate to the folder in which you saved the extracted files.  
 !["Directory"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Import%20from%20Directory.png)
