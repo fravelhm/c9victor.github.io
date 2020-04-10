@@ -31,7 +31,7 @@ It prints out a maze on screen that the user must navigate through to reach the 
 !["Directory"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Import%20from%20Directory.png)
 7. Click finish
 
-The folder should now appear in your package explorer as shown:
+The folder should now appear in your package explorer as shown:  
 !["Package Explorer"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Package_Explorer.PNG)
 
 8. Run the program as a java application to play the game.  
