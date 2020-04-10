@@ -39,7 +39,8 @@ The folder should now appear in your package explorer as shown:
 * S: start position.
 * @: user's current position.
 * G: end goal.
-* .: shows the user where they have traveled.
+* .: shows the user where they have traveled.  
+User enters "up", "down", "left", or "right" to navigate the maze.  
 Navigate to G to win the game.
 
 ### Troubleshooting
