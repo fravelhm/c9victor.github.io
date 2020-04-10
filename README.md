@@ -20,6 +20,7 @@ It prints out a maze on screen that the user must navigate through to reach the 
 **Requirements**
 * Eclipse
 
+**Installation steps**
 1. Download the [zip](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Lab04.zip).  
 2. Extract the files.  
 3. Open Eclipse > File > Open Projects From File System  
