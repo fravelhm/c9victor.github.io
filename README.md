@@ -17,10 +17,10 @@ The code that follows was created by me earlier this semester (Spring 2020).
 It prints out a maze on screen that the user must navigate through to reach the finish line.
 
 ### How to Install
-**Requirements**
+**Requirements**  
 * Eclipse
 
-**Installation steps**
+**Installation steps**  
 1. Download the [zip](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Lab04.zip).  
 2. Extract the files.  
 3. Open Eclipse > File > Open Projects From File System  
