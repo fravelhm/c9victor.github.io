@@ -23,19 +23,18 @@ It prints out a maze on screen that the user must navigate through to reach the 
 **Installation steps**  
 1. Download the [zip](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Lab04.zip).  
 2. Extract the files.  
-3. Open Eclipse 
-4. Click "File"  
+3. Open Eclipse.   
+4. Click "File".  
 !["File"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/File.jpg)
-5. Click "Open Projects From File System"
+5. Click "Open Projects From File System".  
 6. Click directory and navigate to the folder in which you saved the extracted files.  
 !["Directory"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Import%20from%20Directory.png)
 7. Click finish. The folder should now appear in your package explorer as shown:  
 !["Package Explorer"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Package_Explorer.PNG)
-
 8. Run the program as a java application to play the game.  
-9. Select "Maze Game - Solution"  
+9. Select "Maze Game - Solution".  
 !["Solution"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Maze%20Game%20Solution.PNG)
-10. Click "OK" to begin
+10. Click "OK" to begin.
 
 ### Usage
 #### Symbols
