@@ -26,7 +26,7 @@ It prints out a maze on screen that the user must navigate through to reach the 
 4. Click directory and navigate to the folder in which you saved the extracted files.  
 5. Click finish
 
-The folder should know appear in your package explorer as shown:
+The folder should now appear in your package explorer as shown:
 !["Package Explorer"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Package%20Explorer.PNG)
 
 6. Run the program as a java application to play the game.  
