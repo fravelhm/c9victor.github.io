@@ -33,7 +33,7 @@ It prints out a maze on screen that the user must navigate through to reach the 
 !["Package Explorer"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Package_Explorer.PNG)
 
 8. Run the program as a java application to play the game.  
-9. Select "Maze Game - Solution"
+9. Select "Maze Game - Solution"  
 !["Solution"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Maze%20Game%20Solution.PNG)
 10. Click "OK" to begin
 
