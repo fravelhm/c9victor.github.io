@@ -20,17 +20,17 @@ It prints out a maze on screen that the user must navigate through to reach the 
 **Requirements**
 * Eclipse
 
-Download the [zip](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Lab04.zip).  
-Extract the files.  
-Open Eclipse > File > Open Projects From File System  
-Click directory and navigate to the folder in which you saved the extracted files.  
-Click finish
+1. Download the [zip](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Lab04.zip).  
+2. Extract the files.  
+3. Open Eclipse > File > Open Projects From File System  
+4. Click directory and navigate to the folder in which you saved the extracted files.  
+5. Click finish
 
 The folder should know appear in your package explorer as shown:
 !["Package Explorer"](https://github.com/c9victor/c9victor.github.io/blob/master/Info/Package%20Explorer.PNG)
 
-Run the program as a java application to play the game.
-Run Maze Game > Solution
+6. Run the program as a java application to play the game.  
+7. Run Maze Game > Solution
 
 ### Usage
 #### Symbols
